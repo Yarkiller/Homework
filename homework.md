@@ -22,3 +22,4 @@
 ## git branch name_brabch создает ветку с именем name_branch
 
 but the boss decided otherwise :-)
+q
